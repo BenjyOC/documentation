@@ -1,0 +1,13 @@
+site_name: BRACloud documentation
+theme:
+  name: material
+markdown_extensions:
+  - attr_list
+  - md_in_html
+#plugins:
+#  - glightbox
+# Navigation menu
+#page:
+#  - index.md
+#  - Openwrt:
+#    - setup: openwrt.md
